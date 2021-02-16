@@ -598,7 +598,44 @@ https://itpolly.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
 #EXTINF:-1 tvg-id="TPO.UK" tvg-logo="https://static.epg.best/gb/Tinypop.uk.png" group-title="Family",Tiny Pop
 https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXZzNDd1/111.png" group-title="Live: Premier League & EFL",ASSP 1 
+http://cloudcdn.tk:80/TadekPA/ZWbK05593/23453 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXZzNDd1/111.png" group-title="Live: Premier League & EFL",ASSP 2 
+http://cloudcdn.tk:80/TadekPA/ZWbK05593/23452 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXZzNDd1/111.png" group-title="Live: Premier League & EFL",ASSP 3 
+http://cloudcdn.tk:80/TadekPA/ZWbK05593/23451 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXZzNDd1/111.png" group-title="Live: Premier League & EFL",ASSP 4 
+http://cloudcdn.tk:80/TadekPA/ZWbK05593/33973 
+#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="True Premier Football HD 1 TH" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Live: Premier League & EFL",True Premier Football HD 1 TH 
+http://cloudcdn.tk:80/TadekPA/ZWbK05593/16956 
+#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="True Premier Football HD 2 TH" tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="Live: Premier League & EFL",True Premier Football HD 2 TH 
+http://cloudcdn.tk:80/TadekPA/ZWbK05593/16957 
+#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="True Premier Football HD 3 TH" tvg-logo="https://picon-13398.kxcdn.com/beinsports3hd.jpg" group-title="Live: Premier League & EFL",True Premier Football HD 3 TH 
+http://cloudcdn.tk:80/TadekPA/ZWbK05593/16958 
+#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="True Premier Football HD 4 TH" tvg-logo="https://picon-13398.kxcdn.com/beinsport4hd.jpg" group-title="Live: Premier League & EFL",True Premier Football HD 4 TH 
+http://cloudcdn.tk:80/TadekPA/ZWbK05593/16959 
+#EXTINF:-1 tvg-id="" tvg-name="True Premier Football HD 5 TH" tvg-logo="https://picon-13398.kxcdn.com/truepremierefootball5th.jpg" group-title="Live: Premier League & EFL",True Premier Football HD 5 TH 
+http://cloudcdn.tk:80/TadekPA/ZWbK05593/27936 
+#EXTINF:-1 tvg-id="" tvg-name="EPL 1" tvg-logo="https://picon-13398.kxcdn.com/epluk.jpg" group-title="Live: Premier League & EFL",EPL 1 
+http://cloudcdn.tk:80/TadekPA/ZWbK05593/19032 
+#EXTINF:-1 tvg-id="" tvg-name="EPL 2" tvg-logo="https://picon-13398.kxcdn.com/epluk.jpg" group-title="Live: Premier League & EFL",EPL 2 
+http://cloudcdn.tk:80/TadekPA/ZWbK05593/19033 
+#EXTINF:-1 tvg-id="" tvg-name="EPL 3" tvg-logo="https://picon-13398.kxcdn.com/epluk.jpg" group-title="Live: Premier League & EFL",EPL 3 
+http://cloudcdn.tk:80/TadekPA/ZWbK05593/19034 
+#EXTINF:-1 tvg-id="" tvg-name="EPL 4" tvg-logo="https://picon-13398.kxcdn.com/epluk.jpg" group-title="Live: Premier League & EFL",EPL 4 
+http://cloudcdn.tk:80/TadekPA/ZWbK05593/19035 
+#EXTINF:-1 tvg-id="" tvg-name="EPL 5" tvg-logo="https://picon-13398.kxcdn.com/epluk.jpg" group-title="Live: Premier League & EFL",EPL 5 
+http://cloudcdn.tk:80/TadekPA/ZWbK05593/19036 
+#EXTINF:-1 tvg-id="" tvg-name="EPL 6" tvg-logo="https://picon-13398.kxcdn.com/epluk.jpg" group-title="Live: Premier League & EFL",EPL 6 
+http://cloudcdn.tk:80/TadekPA/ZWbK05593/19037 
+#EXTINF:-1 tvg-id="" tvg-name="EPL 7" tvg-logo="https://picon-13398.kxcdn.com/epluk.jpg" group-title="Live: Premier League & EFL",EPL 7 
+http://cloudcdn.tk:80/TadekPA/ZWbK05593/19089 
+#EXTINF:-1 tvg-id="" tvg-name="EPL 8" tvg-logo="https://picon-13398.kxcdn.com/epluk.jpg" group-title="Live: Premier League & EFL",EPL 8 
+http://cloudcdn.tk:80/TadekPA/ZWbK05593/19090 
+#EXTINF:-1 tvg-id="" tvg-name="EPL 9" tvg-logo="https://picon-13398.kxcdn.com/epluk.jpg" group-title="Live: Premier League & EFL",EPL 9 
+http://cloudcdn.tk:80/TadekPA/ZWbK05593/28167 
+#EXTINF:-1 tvg-id="" tvg-name="EPL 10" tvg-logo="https://picon-13398.kxcdn.com/epluk.jpg" group-title="Live: Premier League & EFL",EPL 10 
+http://cloudcdn.tk:80/TadekPA/ZWbK05593/28168 
 
 
 
