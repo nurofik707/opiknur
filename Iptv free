@@ -714,7 +714,38 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="TEST" tvg-logo="https://i.postimg.cc/52nqfrbp/fox-sports-400x400.png",FOX SPORTS VN 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-name="SuperSport Variety 1 HD VIP AF" tvg-logo="" group-title="Sports",SuperSport Variety 1 HD VIP AF 
+http://tv.iptvpl.itv.world:8080/0qqa0fplar/2dmkq4493/678020 
+#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-name="SuperSport Variety 2 HD AF" tvg-logo="" group-title="Sports",SuperSport Variety 2 HD AF 
+http://tv.iptvpl.itv.world:8080/0qqa0fplar/2dmkq4493/678021 
+#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-name="SuperSport Variety 3 HD VIP AF" tvg-logo="" group-title="Sports",SuperSport Variety 3 HD VIP AF 
+http://tv.iptvpl.itv.world:8080/0qqa0fplar/2dmkq4493/678022 
+#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-name="SuperSport Variety 4 HD VIP AF" tvg-logo="" group-title="Sports",SuperSport Variety 4 HD VIP AF 
+http://tv.iptvpl.itv.world:8080/0qqa0fplar/2dmkq4493/678023 
+#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="SuperSport Football HD VIP AF" tvg-logo="" group-title="Sports",SuperSport Football HD VIP AF 
+http://tv.iptvpl.itv.world:8080/0qqa0fplar/2dmkq4493/678024 
+#EXTINF:-1 tvg-id="supersportaction.za" tvg-name="SuperSport Action FHD VIP AF" tvg-logo="http://pici.life/logo.png" group-title="Sports",SuperSport Action FHD VIP AF 
+http://tv.iptvpl.itv.world:8080/0qqa0fplar/2dmkq4493/683568 
+#EXTINF:-1 tvg-id="supersportmotorsport.za" tvg-name="SuperSport Motorsport HD VIP AF" tvg-logo="" group-title="Sports",SuperSport Motorsport HD VIP AF 
+http://tv.iptvpl.itv.world:8080/0qqa0fplar/2dmkq4493/678025 
+#EXTINF:-1 tvg-id="supersportrugby.za" tvg-name="SuperSport Rugby HD VIP AF" tvg-logo="" group-title="Sports",SuperSport Rugby HD VIP AF 
+http://tv.iptvpl.itv.world:8080/0qqa0fplar/2dmkq4493/678026 
+#EXTINF:-1 tvg-id="supersporttennis.za" tvg-name="SuperSport Tennis HD VIP AF" tvg-logo="" group-title="Sports",SuperSport Tennis HD VIP AF 
+http://tv.iptvpl.itv.world:8080/0qqa0fplar/2dmkq4493/678027 
+#EXTINF:-1 tvg-id="supersportgolf.za" tvg-name="SuperSport Golf HD VIP AF" tvg-logo="" group-title="Sports",SuperSport Golf HD VIP AF 
+http://tv.iptvpl.itv.world:8080/0qqa0fplar/2dmkq4493/678028 
+#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="SuperSport Premier League HD VIP AF" tvg-logo="" group-title="Sports",SuperSport Premier League HD VIP AF 
+http://tv.iptvpl.itv.world:8080/0qqa0fplar/2dmkq4493/678029 
+#EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="SuperSport La Liga HD VIP AF" tvg-logo="http://pici.life/logo.png" group-title="Sports",SuperSport La Liga HD VIP AF 
+http://tv.iptvpl.itv.world:8080/0qqa0fplar/2dmkq4493/683001 
+#EXTINF:-1 tvg-id="supersportpsl.za" tvg-name="SuperSport PSL HD VIP AF" tvg-logo="" group-title="Sports",SuperSport PSL HD VIP AF 
+http://tv.iptvpl.itv.world:8080/0qqa0fplar/2dmkq4493/678030 
+#EXTINF:-1 tvg-id="supersportgrandstand.za" tvg-name="SuperSport Grandstand HD VIP AF" tvg-logo="http://pici.life/logo.png" group-title="Sports",SuperSport Grandstand HD VIP AF 
+http://tv.iptvpl.itv.world:8080/0qqa0fplar/2dmkq4493/678031 
+#EXTINF:-1 tvg-id="supersportmaximo1.za" tvg-name="SuperSport Maximo HD AF" tvg-logo="http://pici.life/logo.png" group-title="Sports",SuperSport Maximo HD AF 
+http://tv.iptvpl.itv.world:8080/0qqa0fplar/2dmkq4493/682919 
+#EXTINF:-1 tvg-id="supersportblitz.za" tvg-name="SuperSport Blitz FHD VIP AF" tvg-logo="http://pici.life/logo.png" group-title="Sports",SuperSport Blitz FHD VIP AF 
+http://tv.iptvpl.itv.world:8080/0qqa0fplar/2dmkq4493/682921 
 
 ######## Mat4 ########
 
